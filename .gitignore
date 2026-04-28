@@ -1,0 +1,15 @@
+# PLY test data files (local only, not committed)
+*.ply
+
+# Build output
+bin/
+obj/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+
+# .NET
+*.user
+.vs/
+.vscode/

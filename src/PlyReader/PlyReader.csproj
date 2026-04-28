@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>PlyReader</AssemblyName>
+    <RootNamespace>PlyReader</RootNamespace>
+    <PackageId>bertt.plyreader</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>bertt</Authors>
+    <Description>A .NET Standard 2.0 library for reading PLY (Polygon File Format) files. Supports ASCII, binary little-endian and binary big-endian formats with all standard property types.</Description>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/bertt/plyreader</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/bertt/plyreader</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>ply;3d;pointcloud;mesh;gaussian-splatting</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Nullable>enable</Nullable>
+    <LangVersion>8.0</LangVersion>
+  </PropertyGroup>
+
+</Project>
